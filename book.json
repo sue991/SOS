@@ -1,5 +1,3 @@
 {
-  "structure": {
-        "README.md": "INTRO.md"
-    }
-  }
+    "gitbook" : 2.0
+}
