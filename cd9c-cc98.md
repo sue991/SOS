@@ -19,19 +19,13 @@ Git의 관한 설명 : [https://backlog.com/git-tutorial/kr/stepup/stepup2\_2.ht
 
 Revolution OS: [https://www.youtube.com/watch?v=4ZHloJVhcRY](https://www.youtube.com/watch?v=4ZHloJVhcRY)
 
-
-
-
-
-
-
------------
+---
 
 # 저자
 
--------------
+---
 
 2017012333 이수아
 
-2017
+2017011703 김민석
 
