@@ -21,6 +21,10 @@ Revolution OS: [https://www.youtube.com/watch?v=4ZHloJVhcRY](https://www.youtube
 
 오픈소스의 소개 : [https://news.samsung.com/kr/?p=276998](https://news.samsung.com/kr/?p=276998)
 
+오픈소스의 미래 : [http://it.chosun.com/news/article.html?no=2796802](http://it.chosun.com/news/article.html?no=2796802)
+
+[http://www.etnews.com/20160923000188](http://www.etnews.com/20160923000188)
+
 ---
 
 # 저자
