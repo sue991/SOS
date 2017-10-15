@@ -19,7 +19,7 @@ Git의 관한 설명 : [https://backlog.com/git-tutorial/kr/stepup/stepup2\_2.ht
 
 Revolution OS: [https://www.youtube.com/watch?v=4ZHloJVhcRY](https://www.youtube.com/watch?v=4ZHloJVhcRY)
 
-오픈소스의 소개 : https://news.samsung.com/kr/?p=276998
+오픈소스의 소개 : [https://news.samsung.com/kr/?p=276998](https://news.samsung.com/kr/?p=276998)
 
 ---
 
@@ -30,4 +30,6 @@ Revolution OS: [https://www.youtube.com/watch?v=4ZHloJVhcRY](https://www.youtube
 2017012333 이수아
 
 2017011703 김민석
+
+2017011967 민준경
 
