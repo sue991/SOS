@@ -17,5 +17,5 @@ Git의 관한 설명 : [https://backlog.com/git-tutorial/kr/stepup/stepup2\_2.ht
 
 [http://www.ddaily.co.kr/news/article.html?no=115248](http://www.ddaily.co.kr/news/article.html?no=115248)
 
-https://ko.wikipedia.org/wiki/%EC%98%A4%ED%94%88\_%EC%86%8C%EC%8A%A4
+
 
