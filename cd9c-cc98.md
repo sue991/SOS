@@ -13,3 +13,11 @@ Git의 관한 설명 : [https://backlog.com/git-tutorial/kr/stepup/stepup2\_2.ht
 
 
 
+유닉스와 리눅스 : https://wiki.kldp.org/HOWTO/html/Secure-Programs-HOWTO/history.html
+
+오픈소스의 개요  : http://itnp.kr/roller/home/entry/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4\_open\_source\_%EA%B0%9C%EC%9A%94
+
+
+
+http://www.ddaily.co.kr/news/article.html?no=115248
+
