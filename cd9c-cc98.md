@@ -17,5 +17,5 @@ Git의 관한 설명 : [https://backlog.com/git-tutorial/kr/stepup/stepup2\_2.ht
 
 [http://www.ddaily.co.kr/news/article.html?no=115248](http://www.ddaily.co.kr/news/article.html?no=115248)
 
-
+Revolution OS: https://www.youtube.com/watch?v=4ZHloJVhcRY
 
